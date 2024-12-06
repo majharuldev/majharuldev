@@ -4,7 +4,7 @@
 #### Full Stack Web & Android Developer
 passionate developer with a strong focus on Android and web development. I love creating seamless and user-friendly applications that make a difference.
 
-Skills:  REACT / JS / HTML / CSS/PHP/LARAVEL
+Skills:  REACT / JS / HTML / CSS/PHP/LARAVEL/JAVA
 
 - 🔭 I’m currently working on BMS TECH LOGISTICS 
 - 🌱 I’m currently learning MERN Stack 
